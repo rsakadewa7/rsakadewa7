@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Ruach Sakadewa 🌟  
+# 👋 Hello World! I'm Ruach Sakadewa 🌟  
 **Data Scientist | Problem Solver | Tech Enthusiast**  
 
 🎯 Passionate about turning data into impactful insights and leveraging technology to drive innovation. With a strong foundation in Information Systems, my journey has led me through diverse experiences in banking, data analytics, and cutting-edge machine learning.  
