@@ -9,7 +9,7 @@
 
 - 🎓 **Educational Achievements**:  
   - **Cum Laude Graduate** in Information Systems (GPA: 3.73) from Tarumanagara University.  
-  - Recent graduate of the **Data Scientist Bootcamp** at Hacktiv8.  
+  - Recent graduate of the **Data Scientist Bootcamp** at Hacktiv8 (Score: 88/100).  
 
 - 🛠 **Professional Experience**:  
   - Managed **banking applications and databases** at Bank Sahabat Sampoerna, ensuring smooth operations and high performance.  
