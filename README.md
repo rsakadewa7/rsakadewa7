@@ -20,8 +20,21 @@
   - 🥈 2nd Place Winner in the **Business Pitching Competition** (PMN UNTAR 2021).  
 
 - 📈 **Projects I’m Proud Of**:  
-  - **Predicting Loan Defaults**: Built an intelligent model using Random Forest, integrating Hugging Face for real-time decision-making.  
-  - **Future-Proofing Insurance Sales**: Created a dynamic forecasting dashboard combining Python, R, and Power BI for precise insights.  
+
+  - **NLP-Driven Sentiment Analysis for BRImo Reviews Using Transformers with Hugging Face**  
+     Face to classify BRImo Google Play Store reviews into positive, neutral, and negative sentiments.  
+     **Tools**: Python, TensorFlow, Hugging Face Transformers.  
+     **Algorithm/Method**: IndoBERT (Phase 1 - uncased), Transformers, AdamW Optimizer, Categorical Cross-Entropy Loss.  
+  
+  - **Predicting Loan Defaults: A Comparison of Machine Learning Algorithms**  
+     This project compares the performance of various machine learning algorithms—KNN, SVM, Decision Tree, Random Forest, and XGBoost—for predicting loan defaults based on customer features. The evaluation is conducted using cross-validation to ensure reliable performance metrics and to identify the most effective model for loan default prediction.  
+     **Tools**: Python, Scikit-learn, Pandas, NumPy.  
+     **Algorithm/Method**: KNN, SVM, Decision Tree, Random Forest, XGBoost, Cross-Validation.
+  
+  - **Market Segmentation Analysis for Olist Store with Tableau**  
+     Developed an interactive dashboard to segment Olist's market based on product types, regions, and other key factors, using statistical analysis for accurate market segmentation. The solution utilizes Python for data analysis, Seaborn and Matplotlib for visualization, and Tableau for an insightful and interactive dashboard.  
+     **Tools**: Tableau, Python, Pandas, Matplotlib, Seaborn.  
+     **Algorithm/Method**: Statistical Analysis.
 
 ---
 
